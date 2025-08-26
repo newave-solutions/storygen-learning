@@ -173,7 +173,7 @@ else
     echo "Get your Gemini API key from: https://aistudio.google.com/"
     echo ""
     echo -e "${YELLOW}⚠️ Your API key will not be displayed for security${NC}"
-    read -s -p "Enter your Gemini API key: " API_KEY
+    read -s -p "Enter your Gemini API key: " APIAIzaSyAk3TaAfUshZtsEY_qLweepE3hk17Tzd6U
     echo ""
 fi
 

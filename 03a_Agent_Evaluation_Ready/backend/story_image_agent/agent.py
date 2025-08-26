@@ -9,7 +9,7 @@ from typing import AsyncGenerator
 from google.adk.agents import BaseAgent
 from google.adk.events.event import Event
 from google.adk.agents.invocation_context import InvocationContext
-from story_image_agent.imagen_tool import ImagenTool
+from story_agent.imagen_tool import ImagenTool
 from google.genai.types import Content, Part
 
 logger = logging.getLogger(__name__)
